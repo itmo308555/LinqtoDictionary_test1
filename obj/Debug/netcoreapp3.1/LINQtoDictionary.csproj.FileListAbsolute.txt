@@ -1,0 +1,13 @@
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.exe
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.csprojAssemblyReference.cache
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.AssemblyInfoInputs.cache
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.AssemblyInfo.cs
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.deps.json
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.runtimeconfig.json
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.runtimeconfig.dev.json
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.dll
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\bin\Debug\netcoreapp3.1\LINQtoDictionary.pdb
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.csproj.CoreCompileInputs.cache
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.dll
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.pdb
+D:\ThacSy\Do An\code-do-an\LINQtoDictionary\obj\Debug\netcoreapp3.1\LINQtoDictionary.genruntimeconfig.cache

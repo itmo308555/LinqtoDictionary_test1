@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LINQtoDictionary": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
